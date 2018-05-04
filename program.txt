@@ -2,3 +2,8 @@ Main()
 {
 	print "Hello world"
 }
+
+methon()
+{
+	show();
+}
