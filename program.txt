@@ -2,3 +2,7 @@ Main()
 {
 	print "hello world";
 }
+methon()
+{
+	print "my name is xiao";
+}
